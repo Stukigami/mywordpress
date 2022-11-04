@@ -18,11 +18,11 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<generator>https://wordpress.org/?v=6.1</generator>
 	<item>
 		<title>Tổng Hợp Các Thể Loại Game Phổ Biến Hiện Nay</title>
-		<link>https://stukigami.github.io/mywordpress/2022/08/19/the-gioi-pokemon/</link>
-					<comments>https://stukigami.github.io/mywordpress/2022/08/19/the-gioi-pokemon/#respond</comments>
+		<link>https://stukigami.github.io/mywordpress/the-gioi-pokemon/</link>
+					<comments>https://stukigami.github.io/mywordpress/the-gioi-pokemon/#respond</comments>
 		
 		<dc:creator><![CDATA[NguyenGiaTruong]]></dc:creator>
 		<pubDate>Fri, 19 Aug 2022 03:57:34 +0000</pubDate>
@@ -31,16 +31,16 @@
 
 					<description><![CDATA[Hiện nay ngành công nghiệp Game đang phát triển mạnh, đi cùng với việc nhiều thể loại game mới được tạo ra. Điều này đã làm cho việc trãi nghiệm game trở nên thú vị hơn, người chơi có thể lựa chọn những thể loại nhẹ nhàng như Farming, Building, Sandbox,&#8230; hay trãi nghiệm những [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-10 wp-block-columns alignwide" style="border-radius:0px">
-<div class="wp-container-9 wp-block-column" style="flex-basis:100%">
-<div class="wp-container-8 wp-block-group"><div class="wp-block-group__inner-container">
-<div class="wp-container-7 wp-block-columns">
-<div class="wp-container-6 wp-block-column" style="flex-basis:100%">
-<div class="wp-container-5 wp-block-group"><div class="wp-block-group__inner-container">
-<div class="wp-container-4 wp-block-group has-small-font-size"><div class="wp-block-group__inner-container">
-<div class="wp-container-3 wp-block-group"><div class="wp-block-group__inner-container">
-<div class="wp-container-2 wp-block-columns">
-<div class="wp-container-1 wp-block-column" style="flex-basis:100%">
+<div class="is-layout-flex wp-container-10 wp-block-columns alignwide" style="border-radius:0px">
+<div class="is-layout-flow wp-block-column" style="flex-basis:100%">
+<div class="is-layout-flow wp-block-group"><div class="wp-block-group__inner-container">
+<div class="is-layout-flex wp-container-7 wp-block-columns">
+<div class="is-layout-flow wp-block-column" style="flex-basis:100%">
+<div class="is-layout-flow wp-block-group"><div class="wp-block-group__inner-container">
+<div class="is-layout-flow wp-block-group has-small-font-size"><div class="wp-block-group__inner-container">
+<div class="is-layout-flow wp-block-group"><div class="wp-block-group__inner-container">
+<div class="is-layout-flex wp-container-2 wp-block-columns">
+<div class="is-layout-flow wp-block-column" style="flex-basis:100%">
 <p>Hiện nay ngành công nghiệp Game đang phát triển mạnh, đi cùng với việc nhiều thể loại game mới được tạo ra. Điều này đã làm cho việc trãi nghiệm game trở nên thú vị hơn, người chơi có thể lựa chọn những thể loại nhẹ nhàng như Farming, Building, Sandbox,&#8230; hay trãi nghiệm những pha chiến đấu đầy nhiệt huyết với thể loại FPS, MOBA, Fighting, MMO,&#8230; hoặc đi khám phá những vùng đất mới cùng với những điều kì diệu trong thế loại Adventure, Open World,&#8230;. Điều này đã giúp cho Game đến với nhiều đối tượng người chơi ở mọi độ tuổi khác nhau, bạn có thể chơi với bạn bè hoặc chơi cùng với gia đình.</p>
 </div>
 </div>
@@ -55,12 +55,12 @@
 
 
 
-<figure class="wp-block-image alignwide size-full is-style-default" style="border-radius:0px"><img src="https://stukigami.github.io/mywordpress/wp-content/uploads/2022/08/gamewp.webp" alt="" class="wp-image-38"/></figure>
+<figure class="wp-block-image alignwide size-full is-style-default" style="border-radius:0px"><img decoding="async" src="https://stukigami.github.io/mywordpress/wp-content/uploads/2022/08/gamewp.webp" alt="" class="wp-image-38"/></figure>
 
 
 
-<div class="wp-container-12 wp-block-columns alignwide">
-<div class="wp-container-11 wp-block-column" style="flex-basis:100%">
+<div class="is-layout-flex wp-container-12 wp-block-columns alignwide">
+<div class="is-layout-flow wp-block-column" style="flex-basis:100%">
 <div style="height:201px" aria-hidden="true" class="wp-block-spacer"></div>
 </div>
 </div>
@@ -71,7 +71,7 @@
 
 
 
-<div class="wp-block-media-text alignwide is-stacked-on-mobile has-background" style="background:linear-gradient(135deg,rgb(227,7,202) 0%,rgb(227,197,143) 51%,rgb(118,224,81) 100%)"><figure class="wp-block-media-text__media"><img src="https://stukigami.github.io/mywordpress/wp-content/uploads/2022/08/mobagame.jpg" alt="" class="wp-image-33 size-full"/></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text alignwide is-stacked-on-mobile has-background" style="background:linear-gradient(135deg,rgb(227,7,202) 0%,rgb(227,197,143) 51%,rgb(118,224,81) 100%)"><figure class="wp-block-media-text__media"><img decoding="async" src="https://stukigami.github.io/mywordpress/wp-content/uploads/2022/08/mobagame.jpg" alt="" class="wp-image-33 size-full"/></figure><div class="wp-block-media-text__content">
 <p class="has-vivid-cyan-blue-color has-text-color has-medium-font-size"><strong>MOBA</strong>:</p>
 
 
@@ -89,7 +89,7 @@
 
 
 
-<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile has-blush-bordeaux-gradient-background has-background"><figure class="wp-block-media-text__media"><img src="https://stukigami.github.io/mywordpress/wp-content/uploads/2022/08/csgo.jpg" alt="" class="wp-image-32 size-full"/></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile has-blush-bordeaux-gradient-background has-background"><figure class="wp-block-media-text__media"><img decoding="async" src="https://stukigami.github.io/mywordpress/wp-content/uploads/2022/08/csgo.jpg" alt="" class="wp-image-32 size-full"/></figure><div class="wp-block-media-text__content">
 <p class="has-vivid-red-color has-text-color has-medium-font-size"><strong>FPS:</strong></p>
 
 
@@ -107,7 +107,7 @@
 
 
 
-<div class="wp-block-media-text alignwide is-stacked-on-mobile has-background" style="background:linear-gradient(135deg,rgb(255,206,236) 0%,rgb(233,72,182) 72%,rgb(152,150,240) 100%)"><figure class="wp-block-media-text__media"><img src="https://stukigami.github.io/mywordpress/wp-content/uploads/2022/08/musedassh.jpg" alt="" class="wp-image-34 size-full"/></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text alignwide is-stacked-on-mobile has-background" style="background:linear-gradient(135deg,rgb(255,206,236) 0%,rgb(233,72,182) 72%,rgb(152,150,240) 100%)"><figure class="wp-block-media-text__media"><img decoding="async" src="https://stukigami.github.io/mywordpress/wp-content/uploads/2022/08/musedassh.jpg" alt="" class="wp-image-34 size-full"/></figure><div class="wp-block-media-text__content">
 <p class="has-text-color has-medium-font-size" style="color:#ff01af"><strong>RHYTHM:</strong></p>
 
 
@@ -125,7 +125,7 @@
 
 
 
-<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile has-background" style="background:linear-gradient(253deg,rgb(2,3,129) 0%,rgb(126,100,217) 40%,rgb(40,116,252) 100%)"><figure class="wp-block-media-text__media"><img src="https://stukigami.github.io/mywordpress/wp-content/uploads/2022/08/subnautica.jpg" alt="" class="wp-image-43 size-full"/></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile has-background" style="background:linear-gradient(253deg,rgb(2,3,129) 0%,rgb(126,100,217) 40%,rgb(40,116,252) 100%)"><figure class="wp-block-media-text__media"><img decoding="async" src="https://stukigami.github.io/mywordpress/wp-content/uploads/2022/08/subnautica.jpg" alt="" class="wp-image-43 size-full"/></figure><div class="wp-block-media-text__content">
 <p class="has-text-color has-medium-font-size" style="color:#ffb700"><strong>Survival:</strong></p>
 
 
@@ -143,7 +143,7 @@
 
 
 
-<div class="wp-block-media-text alignwide is-stacked-on-mobile has-background" style="background:linear-gradient(135deg,rgb(2,3,129) 0%,rgb(255,202,202) 39%,rgb(40,116,252) 100%)"><figure class="wp-block-media-text__media"><img src="https://stukigami.github.io/mywordpress/wp-content/uploads/2022/08/MHR.jpg" alt="" class="wp-image-36 size-full"/></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text alignwide is-stacked-on-mobile has-background" style="background:linear-gradient(135deg,rgb(2,3,129) 0%,rgb(255,202,202) 39%,rgb(40,116,252) 100%)"><figure class="wp-block-media-text__media"><img decoding="async" src="https://stukigami.github.io/mywordpress/wp-content/uploads/2022/08/MHR.jpg" alt="" class="wp-image-36 size-full"/></figure><div class="wp-block-media-text__content">
 <p><strong>RPG:</strong></p>
 
 
@@ -156,15 +156,15 @@
 </div></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://stukigami.github.io/mywordpress/2022/08/19/the-gioi-pokemon/feed/</wfw:commentRss>
+					<wfw:commentRss>https://stukigami.github.io/mywordpress/the-gioi-pokemon/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Chào tất cả mọi người!</title>
-		<link>https://stukigami.github.io/mywordpress/2022/08/19/chao-moi-nguoi/</link>
-					<comments>https://stukigami.github.io/mywordpress/2022/08/19/chao-moi-nguoi/#comments</comments>
+		<link>https://stukigami.github.io/mywordpress/chao-moi-nguoi/</link>
+					<comments>https://stukigami.github.io/mywordpress/chao-moi-nguoi/#comments</comments>
 		
 		<dc:creator><![CDATA[NguyenGiaTruong]]></dc:creator>
 		<pubDate>Fri, 19 Aug 2022 01:25:29 +0000</pubDate>
@@ -176,7 +176,7 @@
 <p>Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://stukigami.github.io/mywordpress/2022/08/19/chao-moi-nguoi/feed/</wfw:commentRss>
+					<wfw:commentRss>https://stukigami.github.io/mywordpress/chao-moi-nguoi/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
